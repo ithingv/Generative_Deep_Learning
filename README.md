@@ -5,11 +5,11 @@
 
 ## Chapter 3. 변이형 오토인코더(VAE)
 
-3.2. AE(AutoEncoder)
-3.4 VAE 만들기
-3.5 VAE 사용하여 얼굴 이미지 생성
+3.2. AE(AutoEncoder)  
+3.4 VAE 만들기  
+3.5 VAE 사용하여 얼굴 이미지 생성  
 
 ## Chapter 4. GAN(Generative Adversarial Network)
 
-4.3. 첫 번째 GAN
-4.5. WGAN
+4.3. 첫 번째 GAN  
+4.5. WGAN  
